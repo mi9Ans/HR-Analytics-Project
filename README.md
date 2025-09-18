@@ -64,6 +64,6 @@ This project focuses on cleaning and analyzing HR employee data to uncover insig
 3. Run the notebook to reproduce cleaning + analysis.
 4. Explore insights and charts in the output files
 
-##📌 Conclusion
+📌 Conclusion
 
 This project highlights how data cleaning and visualization can help HR managers understand workforce trends and make better decisions.
