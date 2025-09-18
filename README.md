@@ -6,6 +6,9 @@ This project focuses on cleaning and analyzing HR employee data to uncover insig
 
 ## 📂 Project Structure  
 
+## 📂 Project Structure  
+
+```plaintext
 HR-Analytics-Project/
 │── employee_raw.xlsx              # Raw messy dataset
 │── employee_cleaned.xlsx          # Cleaned dataset
@@ -17,6 +20,7 @@ HR-Analytics-Project/
 │── performance_distribution.png   # Performance distribution
 │── top5_salaries.png              # Top 5 salaries
 │── README.md                      # Project documentation
+```
 
 
 ---
