@@ -50,6 +50,7 @@ Attrition by gender	🟦🟩 Bar/Pie chart
 Attrition by department	📊 Bar chart
 Performance distribution	📊 Histogram/Bar
 Top 5 salaries	📑 Table
+
 🛠️ Technologies Used
 
 Python
