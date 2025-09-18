@@ -6,7 +6,17 @@ This project focuses on cleaning and analyzing HR employee data to uncover insig
 
 ## 📂 Project Structure  
 
-
+HR-Analytics-Project/
+│── employee_raw.xlsx # Raw messy dataset
+│── employee_cleaned.xlsx # Cleaned dataset
+│── Employee_Details.ipynb # Jupyter Notebook (cleaning + analysis)
+│── employee_details.py # Python script version
+│── hiring_trend.png # Hiring trend visualization
+│── attrition_by_gender.png # Attrition by gender
+│── attrition_by_department.png # Attrition by department
+│── performance_distribution.png # Performance distribution
+│── top5_salaries.png # Top 5 salaries
+│── README.md # Project documentation
 
 ---
 
