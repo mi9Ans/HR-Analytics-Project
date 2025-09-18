@@ -27,18 +27,14 @@ Converted JoiningDate to datetime and extracted Year
 Created a clean dataset → employee_cleaned.xlsx
 
 📈 Exploratory Data Analysis (EDA)
+
 Key Insights:
 
 👥 Employee count per department → Department size distribution
-
 💰 Average salary by department → Salary comparison across departments
-
 📉 Attrition by gender & department → Patterns of employee exits
-
 📈 Hiring trend over years → Recruitment growth trend
-
 ⭐ Performance distribution → Spread of performance ratings
-
 🏆 Top 5 highest paid employees → Table of top earners
 
 📊 Visualizations
