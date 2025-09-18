@@ -1,1 +1,78 @@
 # HR-Analytics-Project
+This project focuses on cleaning and analyzing HR employee data to uncover insights useful for HR managers. It demonstrates data cleaning, exploratory data analysis (EDA), and visualization using Python (pandas, matplotlib).
+
+📂 Project Structure
+HR-Analytics-Project/
+│── employee_raw.xlsx          # Raw messy dataset
+│── employee_cleaned.xlsx      # Cleaned dataset
+│── Employee_Details.ipynb     # Jupyter Notebook (cleaning + analysis)
+│── employee_details.py        # Python script version
+│── hiring_trend.png           # Hiring trend visualization
+│── attrition_by_gender.png    # Attrition by gender
+│── attrition_by_department.png# Attrition by department
+│── performance_distribution.png # Performance distribution
+│── top5_salaries.png          # Top 5 salaries
+│── README.md                  # Project documentation
+
+🔧 Data Cleaning
+
+Filled missing values (Role, Salary)
+
+Standardized department names (e.g., “hr” → “HR”)
+
+Removed duplicate records
+
+Converted JoiningDate to datetime and extracted Year
+
+Created a clean dataset → employee_cleaned.xlsx
+
+📈 Exploratory Data Analysis (EDA)
+Key Insights:
+
+👥 Employee count per department → Department size distribution
+
+💰 Average salary by department → Salary comparison across departments
+
+📉 Attrition by gender & department → Patterns of employee exits
+
+📈 Hiring trend over years → Recruitment growth trend
+
+⭐ Performance distribution → Spread of performance ratings
+
+🏆 Top 5 highest paid employees → Table of top earners
+
+📊 Visualizations
+Insight	Chart
+Employee count per dept	📊 Bar chart
+Average salary per dept	📊 Bar chart
+Hiring trend	📈 Line chart
+Attrition by gender	🟦🟩 Bar/Pie chart
+Attrition by department	📊 Bar chart
+Performance distribution	📊 Histogram/Bar
+Top 5 salaries	📑 Table
+🛠️ Technologies Used
+
+Python
+
+Pandas
+
+Matplotlib
+
+Jupyter Notebook
+
+🚀 How to Use
+
+Clone this repo:
+
+git clone https://github.com/YourUsername/HR-Analytics-Project.git
+
+
+Open Employee_Details.ipynb in Jupyter/Colab.
+
+Run the notebook to reproduce cleaning + analysis.
+
+Explore insights and charts in the output files.
+
+📌 Conclusion
+
+This project highlights how data cleaning and visualization can help HR managers understand workforce trends and make better decisions.
